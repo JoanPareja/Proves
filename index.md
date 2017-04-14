@@ -8,4 +8,4 @@ Just with a simple click at the .exe you will generate the amazing generic greet
 @JoanPareja
 
 ### Support or Contact
-Having trouble with Pages? Ask someone from your family, or in case you don't have one the first live human you see.
+Having trouble with Pages? Ask someone from your family, or in case you don't have one the first living human you see.

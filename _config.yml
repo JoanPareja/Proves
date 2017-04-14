@@ -1,0 +1,8 @@
+title: Hello world
+description: The most used program to say hello
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-midnight
+
+gems:
+  - jekyll-mentions
